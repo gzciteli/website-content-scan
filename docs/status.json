@@ -1,36 +1,29 @@
 {
-  "last_run_at": "2026-05-02T07:13:11.027810+00:00",
+  "last_run_at": "2026-05-09T07:27:26.868819+00:00",
   "last_run_result": "success",
   "smartsheet_connection_ok": true,
   "last_upload_processed_at": "2026-04-23T16:28:28Z",
   "last_upload_result": "success",
   "message": "Website Content Scan completed.",
-  "updated_at": "2026-05-02T07:13:11.694102+00:00",
+  "updated_at": "2026-05-09T07:27:27.642952+00:00",
   "workflow_version": "Sitemap Automation branch build 2026-04-22",
   "workflow_ref": "main",
-  "workflow_sha": "f4d89f8ab7b80c3175ace6c1e1dbfb61c8cd1731",
+  "workflow_sha": "b9fd1aa554dd0d3091b9d45f479b9502cd195871",
   "last_run_summary": {
-    "added": 2,
+    "added": 1,
     "added_pages": [
       {
-        "url": "https://ipw.com/nyc-center-stage-evening-event-faq",
+        "url": "https://ipw.com/faqs",
         "site": "ipw.com",
-        "page": "/nyc-center-stage-evening-event-faq",
+        "page": "/faqs",
         "sub_page": "",
-        "last_updated": "2026-04-30"
-      },
-      {
-        "url": "https://ustravel.org/staging-page/state-of-group-travel-report",
-        "site": "ustravel.org",
-        "page": "/staging-page",
-        "sub_page": "/state-of-group-travel-report",
-        "last_updated": "2026-04-29"
+        "last_updated": "2026-05-07"
       }
     ],
-    "updated_last_updated": 175,
+    "updated_last_updated": 176,
     "expired": 0,
     "mode": "smartsheet",
     "sitemap_pages_found": 179,
-    "finished_at": "2026-05-02T07:13:11.027810+00:00"
+    "finished_at": "2026-05-09T07:27:26.868819+00:00"
   }
 }
